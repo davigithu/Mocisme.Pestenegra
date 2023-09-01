@@ -1,0 +1,9 @@
+#pagina{
+    background-color:black;
+    color:white;
+    text-align: center;
+}
+
+a:hover {
+    color: white;
+}
