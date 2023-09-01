@@ -3,6 +3,9 @@
     color:white;
     text-align: center;
 }
+#sub{
+    text-align: left;
+}
 
 a:hover {
     color: white;
